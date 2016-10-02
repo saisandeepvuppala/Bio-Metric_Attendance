@@ -10,3 +10,4 @@ Some of the features which are in  biometric attendance are                     
 I haven't devloped the admin panel i.e one can delete or update the employee number. I need to add some more features like updating the no. of days in a month autimatically. At present , one need to change the no.of days in PHP file.
 soon i will add it.
 
+In order to execute it, use server(APACHE) and copy the files in htdocs of the apache folder and now open the browser and execute the necessary feature.
