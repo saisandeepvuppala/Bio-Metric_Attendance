@@ -11,3 +11,5 @@ I haven't devloped the admin panel i.e one can delete or update the employee num
 soon i will add it.
 
 In order to execute it, use server(APACHE) and copy the files in htdocs of the apache folder and now open the browser and execute the necessary feature.
+
+Few files are repeated with some extra letters, those are enhanced onces.
